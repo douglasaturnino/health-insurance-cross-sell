@@ -1,4 +1,7 @@
-# Venda cruzada de seguro de saúde
+# Venda Cruzada de Seguro de Automóveis
+
+<img src="https://user-images.githubusercontent.com/95532957/204365388-ebdb9214-dc83-4f11-aec8-369dddb7f5d7.jpg" title="Venda Cruzada de Seguro de Automóveis" lign="center" height="400" class="center"/>
+
 
 Este é um projeto fictício. A empresa, o contexto e as perguntas de negócios não são reais. Este portfólio está seguindo as recomendações do blog da [Comunidade DS](https://www.comunidadedatascience.com/como-usar-data-science-para-fazer-a-empresa-vender-mais/).
 
